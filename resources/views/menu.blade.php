@@ -9,6 +9,9 @@
 </head>
 
 <body>
+    <header>
+        <a href="/">Back</a>
+    </header>
     <main>
         <h1>{{$lastname}}</h1>
     </main>

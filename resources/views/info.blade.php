@@ -9,7 +9,12 @@
 </head>
 
 <body>
-    <h1>{{$age}}</h1>
+    <header>
+        <a href="/">Back</a>
+    </header>
+    <main>
+        <h1>{{$age}}</h1>
+    </main>
 </body>
 
 </html>

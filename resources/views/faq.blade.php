@@ -9,7 +9,12 @@
 </head>
 
 <body>
-    <h1>{{$country}}</h1>
+    <header>
+        <a href="/">Back</a>
+    </header>
+    <main>
+        <h1>{{$country}}</h1>
+    </main>
 </body>
 
 </html>
