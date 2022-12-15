@@ -10,7 +10,7 @@
 
 <body>
     <header>
-        <a href="/back">Back</a>
+        <a href="/">Back</a>
     </header>
     <main>
         <h1>Hello,{{$name}}</h1>

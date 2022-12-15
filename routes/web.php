@@ -21,10 +21,6 @@ Route::get('/home', function () {
     return view('home', ['name' => 'Roberto']);
 });
 
-Route::get('/back', function () {
-    return view('home', ['name' => 'Roberto']);
-});
-
 Route::get('/menu', function () {
     return view('menu', ['lastname' => 'Loria']);
 });
